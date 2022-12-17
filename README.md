@@ -1,7 +1,7 @@
 ### Hi there 👋
 -------------------------------
 <div align="center">
-###:muscle: Teck Stack
+##:muscle: Teck Stack
   
 Platforms & Languages
 </div>
