@@ -1,7 +1,12 @@
 ### Hi there 👋
-
+-------------------------------
 ### Skile :muscle:
-Languages
+Platforms & Languages
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+</div>
+
 
 <!--
 **hyunkkong/hyunkkong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
